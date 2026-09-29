@@ -1,5 +1,4 @@
 {
-  "data/mm2_weapons.json": 660060,
   "stickers/manifest.json": 2463,
   "menusounds/manifest.json": 2204,
   "fxatlas/index.json": 16525,
@@ -13,11 +12,6 @@
   "images/ui_stop.png": 1604,
   "particles/comet_bloom.png": 4827,
   "particles/p_glow.png": 15265,
-  "sounds/time/dobroe-utrechko.ogg": 61305,
-  "sounds/time/dobry-denb.ogg": 47124,
-  "sounds/time/dobry-vecher.ogg": 53571,
-  "sounds/time/privetik-priyatnoy.ogg": 149941,
-  "sounds/time/privetik-udachnoy.ogg": 149310,
   "menusounds/deluxe_off.ogg": 14363,
   "menusounds/deluxe_on.ogg": 13507,
   "menusounds/function_off.ogg": 7417,
